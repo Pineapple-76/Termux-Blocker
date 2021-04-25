@@ -34,6 +34,7 @@ Ctrl + C и "clear" не помогут, данная надпись будет 
 • pip install colorama
 
 • git clone https://github.com/Pineapple-76/Termux-Hack
+
 • cd Termux-Blocker
 
 • python wifi-hack.py
