@@ -29,4 +29,4 @@
 
 • python wifi-hack.py
 
-![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
+# ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
