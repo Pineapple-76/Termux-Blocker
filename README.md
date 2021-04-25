@@ -8,6 +8,7 @@
 
 (Не беспокойтесь, ваши данные не буду украдены, как написано в инструменте. 
 Это все муляж, чтобы испугать пользователя :) )
+# ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
 
 # Инструкция по запуску скрипта:
 
@@ -29,4 +30,3 @@
 
 • python wifi-hack.py
 
-# ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
