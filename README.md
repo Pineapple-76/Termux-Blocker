@@ -11,7 +11,8 @@
 # ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
 
 Вот что будет выводиться после запуска скрипта:
-(Ctrl + C не поможет, данная надпись будет располагаться 
+(Данная надпись будет выводиться теперь после каждого запуска Termux
+Ctrl + C не поможет, данная надпись будет располагаться 
 на всех существующих сессиях. Поможет лишь полная очистка Termux.)
 
 # ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/bb887c0b1b889c5d5afd1b67101b44d76d726ac5/IMG_20210425_192136.jpg)
