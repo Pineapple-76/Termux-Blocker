@@ -1,4 +1,4 @@
-# Termux-Blocker
+# Termux-Hack
 Данный инструмент блокирует терминал Termux. 
 
 
