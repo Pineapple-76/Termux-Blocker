@@ -14,7 +14,7 @@
 (Ctrl + C не поможет, данная надпись будет располагаться 
 на всех существующих сессиях. Поможет лишь полная очистка Termux.)
 
-# ![image url](
+# ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/bb887c0b1b889c5d5afd1b67101b44d76d726ac5/IMG_20210425_192136.jpg)
 
 
 # Инструкция по запуску скрипта:
