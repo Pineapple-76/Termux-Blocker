@@ -16,8 +16,7 @@
 Ctrl + C и "clear" не помогут, данная надпись будет располагаться 
 на всех существующих сессиях. Поможет лишь полная очистка Termux.)
 
-# ![image url](https://github.com/Pineapple-76/Termux-Hack/blob/main/IMG_20210425_153218.jpg)
-
+# ![image url](https://github.com/Pineapple-76/Termux-Hack/blob/99c1b09cdd852302c8981796b287ff246dbe1298/IMG_20210425_192136.jpg)
 
 # Инструкция по запуску скрипта:
 
