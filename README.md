@@ -1,5 +1,8 @@
 # Termux-Hack
 Данный инструмент блокирует терминал Termux. 
+(English users have to use Google Translator
+to understand how this script works)
+
 
 
 При его запуске появляется фейковое окно "Взлома Wi-Fi". 
