@@ -26,12 +26,12 @@ while True:
  	sys.exit()
  else:
  	print('Вы ввели что-то не то.')
-print(Fore.GREEN+'Скачивание данных...')
+print(Fore.GREEN + 'Скачивание данных...')
 print()
 for percent in range(101):
-   s = Fore.GREEN+f"[{(percent // 10) * '■'*4}"
-   s += Fore.WHITE+f"{(10 - (percent // 10)) * '■'*4}"+Fore.GREEN+']'
-   s += Fore.WHITE+f" {percent}"+'%'
+   s = Fore.GREEN + f"[{(percent // 10) * '■'*4}"
+   s += Fore.WHITE + f"{(10 - (percent // 10)) * '■'*4}" + Fore.GREEN+']'
+   s += Fore.WHITE + f" {percent}" + '%'
    print(s, end="\r")
    time.sleep(0.1)
 print()
