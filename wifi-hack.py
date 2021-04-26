@@ -35,7 +35,8 @@ for percent in range(101):
    s +=Fore.WHITE+f" {percent}"+'%'
    print(s, end="\r")
    time.sleep(0.1)
-print('Process finished.')
+print()
+print(Fore.GREEN+'Process finished.')
 
 print(Fore.GREEN)
 print()
