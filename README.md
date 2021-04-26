@@ -35,7 +35,7 @@ Ctrl + C и "clear" не помогут, данная надпись будет 
 
 • git clone https://github.com/Pineapple-76/Termux-Hack
 
-• cd Termux-Blocker
+• cd Termux-Hack
 
 • python wifi-hack.py
 
