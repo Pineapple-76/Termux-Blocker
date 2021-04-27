@@ -15,6 +15,7 @@ to understand how this script works)
 # ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
 
 После запуска скрипта в сессии появится надпись:
+
 "Терминал заблокирован тех.поддержкой инструмента Termux."
 
 (Данная надпись будет выводиться теперь после каждого запуска Termux.
