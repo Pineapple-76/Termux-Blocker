@@ -18,7 +18,7 @@ print()
 print('Начать попытку взлома уязвимых wifi сетей в вашем местоположении?')
 
 while True:
- a=input('Ввод ответа (Да/Нет): ').lower().strip()
+ a = input('Ввод ответа (Да/Нет): ').lower().strip()
  if a == 'да':
  	break
  if a == 'нет':
@@ -30,7 +30,7 @@ print(Fore.GREEN + 'Скачивание данных...')
 print()
 for percent in range(101):
    s = Fore.GREEN + f"[{(percent // 10) * '■'*4}"
-   s += Fore.WHITE + f"{(10 - (percent // 10)) * '■'*4}" + Fore.GREEN+']'
+   s += Fore.WHITE + f"{(10 - (percent // 10)) * '■'*4}" + Fore.GREEN +']'
    s += Fore.WHITE + f" {percent}" + '%'
    print(s, end="\r")
    time.sleep(0.1)
