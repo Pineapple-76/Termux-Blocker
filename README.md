@@ -16,8 +16,6 @@ to understand how this script works)
 
 После запуска скрипта в сессиях появятся падающие буквы:
 
-:
-
 ![image url](https://github.com/Pineapple-76/Termux-Hack/blob/30c0971b9ff56b73804c737d54ba63b9e4098212/IMG_20210428_120830.jpg)
 
 
