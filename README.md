@@ -1,4 +1,4 @@
-# Termux-Hack
+# Wifi-Hacker
 Данный инструмент блокирует терминал Termux. 
 
 (English users have to use Google Translator
@@ -38,7 +38,7 @@ Ctrl + C и "clear" не помогут, данная "матрица" буде�
 
 • pip install colorama
 
-• git clone https://github.com/Pineapple-76/Termux-Hack
+• git clone https://github.com/Pineapple-76/Wifi-Hacker
 
 • cd Termux-Hack
 
