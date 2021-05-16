@@ -12,7 +12,7 @@ to understand how this script works)
 
 (Не беспокойтесь, ваши данные не будут украдены, как написано в инструменте при блокировке терминала. 
 Это все муляж, чтобы испугать пользователя :) )
-# ![image url](https://yapx.ru/v/IMG_20210428_120830.jpg)
+# ![image url](https://github.com/Pineapple-76/Wifi-Hacker/blob/9bbb56e95a1a8bce8e164fa03eea521bab9f8a37/IMG_20210425_153218.jpg)
 <br/><br/>
 
 После запуска скрипта в сессиях появятся падающие буквы:
