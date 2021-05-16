@@ -40,7 +40,7 @@ Ctrl + C и "clear" не помогут, данная "матрица" буде�
 
 • git clone https://github.com/Pineapple-76/Wifi-Hacker
 
-• cd Termux-Hack
+• cd Wifi-Hacker
 
 • python wifi-hack.py
 
