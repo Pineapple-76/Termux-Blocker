@@ -12,8 +12,8 @@ to understand how this script works)
 
 (Не беспокойтесь, ваши данные не будут украдены, как написано в инструменте при блокировке терминала. 
 Это все муляж, чтобы испугать пользователя :) )
-# ![image url](https://github.com/Pineapple-76/Termux-Blocker/blob/main/IMG_20210425_153218.jpg)
-<br/><br/>
+# ![image url](https://yapx.ru/u/MSigQ)
+
 После запуска скрипта в сессиях появятся падающие буквы:
 
 ![image url](https://github.com/Pineapple-76/Termux-Hack/blob/30c0971b9ff56b73804c737d54ba63b9e4098212/IMG_20210428_120830.jpg)
