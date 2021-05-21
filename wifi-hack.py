@@ -17,10 +17,10 @@ print()
 print('Начать попытку взлома уязвимых wifi сетей в вашем местоположении?')
 
 while True:
- a = input('Ввод ответа (Да/Нет): ').lower().strip()
- if a == 'да':
+ a = input('Ввод ответа (Yes/No): ').strip()
+ if a.lower() == yes':
  	break
- if a == 'нет':
+ if a.lower() == 'no':
  	print('Пока :(')
  	sys.exit()
  else:
