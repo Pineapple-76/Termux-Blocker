@@ -18,7 +18,7 @@ print('Начать попытку взлома уязвимых wifi сетей
 
 while True:
  a = input('Ввод ответа (Yes/No): ').strip()
- if a.lower() == yes':
+ if a.lower() == 'yes':
  	break
  if a.lower() == 'no':
  	print('Пока :(')
